@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soul&#39;s Whisper</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.souls-music.com/</link>
     <description>Recent content on Soul&#39;s Whisper</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.souls-music.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
