@@ -3,7 +3,7 @@
 ############################
 
 author:
-  name: "L1nkr"
+  name: "Yulun Zhu"
   image: author.png
   greeting: "A simple LinkTree theme for Hugo :evergreen_tree:"
   icon: ":wave:"
@@ -13,48 +13,48 @@ author:
 ############################
 
 links:
-  - github: https://github.com/chrede88/L1nkr
-  - link: https://github.com/Chrede88/L1nkr#readme
-  - website: https://gohugo.io
-  # - x-twitter: 
-  # - mastodon: 
-  # - linkedin: 
-  # - instagram: 
-  # - reddit: 
-  # - telegram: 
-  # - whatsapp: 
-  # - signal: 
-  # - codepen: 
-  # - dev: 
-  # - email: 
-  # - discord: 
-  # - orcid: 
-  # - slack: 
-  # - stack-overflow: 
-  # - twitch: 
-  # - patreon: 
-  # - soundcloud: 
-  # - dribbble: 
-  # - stack-exchange: 
-  # - tiktok: 
-  # - youtube: 
-  # - keybase: 
-  # - flickr: 
-  # - tumblr: 
-  # - kickstarter: 
+  - github: https://gohugo.io
+  - link: https://play.souls-music.com
+  # - website: https://gohugo.io
+  # - x-twitter:
+  # - mastodon:
+  # - linkedin:
+  # - instagram:
+  # - reddit:
+  # - telegram:
+  # - whatsapp:
+  # - signal:
+  # - codepen:
+  # - dev:
+  # - email:
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow:
+  # - twitch:
+  # - patreon:
+  # - soundcloud:
+  # - dribbble:
+  # - stack-exchange:
+  # - tiktok:
+  # - youtube:
+  # - keybase:
+  # - flickr:
+  # - tumblr:
+  # - kickstarter:
   # - snapchat:
-  # - bluesky: 
-  # - bitbucket: 
-  # - bandcamp: 
-  # - etsy: 
-  # - spotify: 
-  # - pinterest: 
-  # - strava: 
-  # - untappd: 
-  # - skype: 
-  # - medium: 
-  # - foursquare: 
-  # - apple: 
+  # - bluesky:
+  # - bitbucket:
+  # - bandcamp:
+  # - etsy:
+  # - spotify:
+  # - pinterest:
+  # - strava:
+  # - untappd:
+  # - skype:
+  # - medium:
+  # - foursquare:
+  # - apple:
   # - amazon:
   # - google:
   # - paypal:
@@ -72,7 +72,7 @@ columns: 3
 ###########################
 
 # add the icon name to each icon
-icontext: true
+icontext: false
 
 ############################
 ## Tooltips
@@ -85,7 +85,7 @@ tooltip: true
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "L1nkr"
-description: "Demo site build with L1nkr & Hugo"
+title: "Soul's Whisper"
+description: "Demo description"
 images:
   - thumbnail.png
